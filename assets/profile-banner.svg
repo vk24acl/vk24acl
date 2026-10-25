@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="380" viewBox="0 0 1480 380" role="img" aria-label="Vikas Reddy Konreddy: Data analytics, applied machine learning and decision systems">
+<defs><linearGradient id="bg" x2="1" y2=".4"><stop stop-color="#122a35"/><stop offset="1" stop-color="#1a464a"/></linearGradient><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M 42 0 L 0 0 0 42" fill="none" stroke="#7eb5a9" stroke-opacity=".09"/></pattern></defs>
+<rect width="1480" height="380" rx="20" fill="url(#bg)"/><rect width="1480" height="380" rx="20" fill="url(#grid)"/>
+<rect x="64" y="60" width="45" height="5" rx="2" fill="#a3e4be"/>
+<text x="64" y="112" fill="#a8d9c4" font-family="Arial,sans-serif" font-size="15" letter-spacing="4">PYTHON + SQL / APPLIED ML / ANALYTICS</text>
+<text x="60" y="190" fill="#ffffff" font-family="Arial,sans-serif" font-weight="700" font-size="62" letter-spacing="-2">Vikas Reddy Konreddy</text>
+<text x="64" y="239" fill="#d5e9e4" font-family="Arial,sans-serif" font-size="24">Building decision systems with evidence you can inspect.</text>
+<text x="64" y="315" fill="#93b8b3" font-family="Arial,sans-serif" font-size="17">London, UK  ·  Axtria experience  ·  MSc Advanced Computer Science</text>
+<g transform="translate(1220 92)" stroke="#7ed3b1" stroke-width="2" fill="none" opacity=".6"><path d="M0 160 V40 M0 160 H150"/><path d="M0 135 L35 120 L70 130 L105 65 L145 30" stroke-width="4"/><circle cx="35" cy="120" r="5" fill="#a8e1c3"/><circle cx="70" cy="130" r="5" fill="#a8e1c3"/><circle cx="105" cy="65" r="5" fill="#a8e1c3"/><circle cx="145" cy="30" r="5" fill="#a8e1c3"/></g>
+</svg>
