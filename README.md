@@ -18,6 +18,8 @@ Hertfordshire**, with completion expected in **January 2027**.
 | [Emotion Detection Benchmark](https://github.com/vk24acl/emotion-detection-benchmark) | BERT, RoBERTa, DistilBERT, ALBERT and XLNet comparisons, with error analysis and a GoEmotions follow-up | MSc dissertation · Historical validation results · Reconstructed notebook and Python pipeline |
 | [MarketMix Decision Engine](https://github.com/vk24acl/marketmix-decision-engine) | Adstock response modelling, chronological holdout evaluation, SQLite reporting and bounded budget allocation | Synthetic data · 14 local tests passed · Runnable API and planning UI |
 | [EvidenceQA — Document AI Assistant](https://github.com/vk24acl/evidenceqa) | BM25 retrieval, source citations, abstention, optional LLM synthesis and an evaluation harness | 15 local tests passed · Offline demo · Mocked provider integration tests |
+| [ChurnLab ML](https://github.com/vk24acl/churnlab-ml) | Chronological churn modelling, separate probability calibration and capacity-aware targeting | Synthetic cohort · Test AP 0.496 · 3.01× top-decile ranking lift · Python/JavaScript inference parity |
+| [VisionGuard AI](https://github.com/vk24acl/visionguard-ai) | Neural image classification, temperature scaling, confidence rejection and corruption stress tests | UCI digits · 95.19% clean test accuracy · Shift/occlusion failures documented · Browser neural inference |
 
 ## Technical toolkit
 
@@ -39,7 +41,8 @@ Hertfordshire**, with completion expected in **January 2027**.
 
 Start with the live **SignalLab** demo, then inspect **MarketMix** for Python and
 SQL, the **dissertation** for ML evaluation, and **EvidenceQA** for retrieval and
-AI application design. Every repository includes setup instructions and
+AI application design. Explore **ChurnLab ML** for calibration and targeting,
+and **VisionGuard AI** for neural inference and robustness. Every repository includes setup instructions and
 limitations. The new application repositories also include automated checks.
 
 Portfolio development is AI-assisted, with executable checks where documented.
